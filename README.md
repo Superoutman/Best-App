@@ -93,11 +93,7 @@
 
 评分   | 名称  | 推荐理由 | 单价
 ----- | ----- | ------ | -----
-★★★★★ | [Ember] | 全语言文档手册速查 | $19.99
-★★★★★ | [xScope] | 8合一标尺神器 | $29.99
-★★★★☆ | [Kaleidoscope] | 精美强大的Diff对比工具 | $69.99
-★★★★  | [ColorSchemer] | 专业的配色、调色软件 | $49.99
-★★★   | [Sparkbox] | 图片、设计素材收集管理 | $19.99
+★★★★★ | [Ember] | 数码创意剪贴簿 | $49.99
 
 
 #### 2.1 不断更新中...
@@ -221,3 +217,4 @@
 [Scrivener]: http://www.literatureandlatte.com/
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
+[Ember]: http://realmacsoftware.com/ember
