@@ -93,7 +93,14 @@
 
 评分   | 名称  | 推荐理由 | 单价
 ----- | ----- | ------ | -----
-★★★★★ | [Ember] | 数码创意剪贴簿 | $49.99
+★★★★★ | [Slicy] | 解放设计师的切图神器 | $29
+★★★★★ | [Spectrum] | 漂亮的配色方案与颜色管理 | $19.99
+★★★★★ | [Softmatic ScreenLayers] | 逆天神器，将截图存为PSD分层格式 | $9.99
+★★★★☆ | [JPEGmini] | 压缩图片大小最高达5倍 | $19.99
+★★★★☆ | [Sketch] | 强大的矢量图形设计工具 | $69.99
+★★★★☆ | [Ember] | 收集你的想法和设计灵感 | $49.99
+★★★★  | [Wordify] | 神奇地将图像转换成你的文字艺术品 | $4.99
+★★★★  | [CollageIt Pro] | 制作照片拼贴、相册和海报的最佳工具 | $19.90
 
 
 #### 2.1 不断更新中...
@@ -218,3 +225,10 @@
 [Ulysses]: http://www.ulyssesapp.com/
 [OmniGraffle]: http://www.omnigroup.com/omnigraffle
 [Ember]: http://realmacsoftware.com/ember
+[Sketch]:http://www.bohemiancoding.com/sketch/
+[Spectrum]:http://www.eigenlogik.com/spectrum/mac
+[Slicy]:http://macrabbit.com/slicy/
+[JPEGmini]:http://www.jpegmini.com/
+[Wordify]:http://www.wordifyapp.com/
+[Softmatic ScreenLayers]:http://www.softmatic.com/
+[CollageIt Pro]:http://www.collageitfree.com/
