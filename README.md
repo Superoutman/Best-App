@@ -96,6 +96,7 @@
 ★★★★★ | [Slicy] | 解放设计师的切图神器 | $29
 ★★★★★ | [Spectrum] | 漂亮的配色方案与颜色管理 | $19.99
 ★★★★★ | [Softmatic ScreenLayers] | 逆天神器，将截图存为PSD分层格式 | $9.99
+★★★★★ | [LilyView] | 最爽、最简洁的看图应用，支持手势 | $4.99
 ★★★★☆ | [JPEGmini] | 压缩图片大小最高达5倍 | $19.99
 ★★★★☆ | [Sketch] | 强大的矢量图形设计工具 | $69.99
 ★★★★☆ | [Ember] | 收集你的想法和设计灵感 | $49.99
@@ -232,3 +233,4 @@
 [Wordify]:http://www.wordifyapp.com/
 [Softmatic ScreenLayers]:http://www.softmatic.com/
 [CollageIt Pro]:http://www.collageitfree.com/
+[LilyView]:http://lilyviewapp.com/
